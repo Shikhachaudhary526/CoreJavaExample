@@ -1,4 +1,4 @@
-package Interview;
+package interview;
 
 public class SecondHighestNumber {
     public static void main(String[] args) {
