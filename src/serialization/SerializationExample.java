@@ -7,7 +7,7 @@ public class SerializationExample {
 public static void main(String[] args) {
     Student student = new Student();
     student.setId(1);
-    student.setName("Shikha");
+    student.setName("Pushkar");
     try {
         FileOutputStream fileOutputStream = new FileOutputStream("Student.txt");
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
