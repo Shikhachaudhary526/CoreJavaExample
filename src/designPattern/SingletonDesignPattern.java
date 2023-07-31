@@ -1,6 +1,6 @@
-package DesignPattern;
+package designPattern;
 
-class SingletonDesignPatternDemo{
+final class SingletonDesignPatternDemo{
 
     private static  SingletonDesignPatternDemo singletonDesignPattern;
 
