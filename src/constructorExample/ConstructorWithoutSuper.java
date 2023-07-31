@@ -1,4 +1,4 @@
-package ConstructorExample;
+package constructorExample;
 
 // Here we are not making any constructor in parent class. And also we can not make constructor in both parent and child class.
 // we are not getting any compile time error because in this case JVM add a magic line in child class default constructor

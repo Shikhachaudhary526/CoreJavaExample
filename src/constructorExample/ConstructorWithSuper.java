@@ -1,4 +1,4 @@
-package ConstructorExample;
+package constructorExample;
 // when we write only parameterized constructor in parent class and 1 default constructor in child class
 // then we have to add super() by ourself otherwise we will get compile time error.
  class Parent {

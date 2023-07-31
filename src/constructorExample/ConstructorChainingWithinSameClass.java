@@ -1,4 +1,4 @@
-package ConstructorExample;
+package constructorExample;
 
 public class ConstructorChainingWithinSameClass {
     public ConstructorChainingWithinSameClass(){
