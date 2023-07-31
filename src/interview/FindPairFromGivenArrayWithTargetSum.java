@@ -2,7 +2,7 @@ package interview;
 
 public class FindPairFromGivenArrayWithTargetSum {
     public static void main(String[] args){
-        int[] arr = {2,4,1,6,5,3};
+        int[] arr = {2,4,1,6,5,3,3};
         int targetSum = 6;
 
         for(int i =0; i<arr.length-1; i++){
